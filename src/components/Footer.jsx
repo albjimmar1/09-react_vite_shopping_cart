@@ -9,9 +9,7 @@ export function Footer () {
 
   return (
     <footer className='footer'>
-      <h4>SPA React using useContext, useId, useReduce, useState</h4>
-      { IS_DEVELOPMENT && JSON.stringify(filters, null, 2) }
-      { IS_DEVELOPMENT && JSON.stringify(cart, null, 2) }
+      <h4>SPA React using useContext, useId, useReducer, useState</h4>
     </footer>
   )
 }
