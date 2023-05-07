@@ -8,7 +8,7 @@ function CartItem ({ thumbnail, price, title, quantity, addToCart }) {
     return (
         <li>
             <img src={thumbnail} alt={title} />
-            <div><strong>{title}</strong>${price}</div>
+            <div className='info'><strong>{title}</strong>${price * quantity}</div>
             <footer>
                 <small>
                     Qty: {quantity}
