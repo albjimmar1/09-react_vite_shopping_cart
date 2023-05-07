@@ -1,0 +1,17 @@
+.footer {
+    left: 16px;
+    bottom: 16px;
+    text-align: left;
+    background: rgba(0, 0, 0, .7);
+    padding: 8px 24px;
+    border-radius: 4px;
+    opacity: .95;
+    backdrop-filter: blur(8px);
+  }
+  
+  .footer h4 {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }  
