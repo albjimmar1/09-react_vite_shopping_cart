@@ -5,7 +5,7 @@ Single page request to show how a shopping cart works.<br>
 
 # Technologies
 
-React (useState, useId)<br>
+React (useId, useState)<br>
 Javascript<br>
 HTML<br>
 CSS<br>
