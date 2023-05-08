@@ -18,7 +18,15 @@ Firebase<br>
 
 # Installation
 
-git clone https://github.com/albjimmar1/09-react_vite_shopping_cart.git<br>
-cd 09-react_vite_shopping_cart<br>
-npm install<br>
-npm run dev<br>
+```sh
+git clone https://github.com/albjimmar1/09-react_vite_shopping_cart.git
+```
+```sh
+cd 09-react_vite_shopping_cart
+```
+```sh
+npm install
+```
+```sh
+npm run dev
+```
